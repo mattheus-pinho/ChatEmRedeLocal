@@ -1,0 +1,10 @@
+# syntax: glob
+*~
+*.a
+*.o
+*.so
+*.class
+*.txt
+
+# Arquivos do Eclipse
+.classpath
